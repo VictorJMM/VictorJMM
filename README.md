@@ -38,7 +38,7 @@ Aqui estão algumas das linguagens e tecnologias que mais uso:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-## 🌱 Minha jornada no aprendizado
+## 🌱 aprendizado
 
 - **C**: programação e controle de baixo nível.
 - **C++**: programação orientada a objetos e sistemas de alto desempenho.
