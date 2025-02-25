@@ -66,7 +66,7 @@ Aqui estão algumas das linguagens e tecnologias que mais uso:
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJMM&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJMM&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 
 ![Gif](https://media1.tenor.com/m/OXiZyYiTx04AAAAd/%D0%B0h-stressed.gif)
